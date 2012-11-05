@@ -1,4 +1,4 @@
-pangea
+discos
 ======
 
 * Usa JDK 1.6 (que se puede fijar con el setenv.cmd)
